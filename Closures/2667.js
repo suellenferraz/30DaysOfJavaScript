@@ -1,9 +1,9 @@
-// Create Hello World Function
+// Create Hello World Function - Day 1
 
 /**
  * @return {Function}
  */
-var createHelloWorld = function() {
+const createHelloWorld = function() {
     
     return () => "Hello World"
 };
